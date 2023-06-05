@@ -1,0 +1,15 @@
+
+body {
+    font-family: Microsoft JhengHei;
+}
+#banner {
+    background-image: url(https://amoon.com.vn/wp-content/uploads/2020/04/concept-chup-anh-mon-an-chum-anh-banh-ngot-nhin-la-me-ma00133.jpg);
+    background-position: center center;
+    background-size: cover;
+    height: 300px;
+    margin-top: 3.5rem;
+}
+.title {
+    color: #FA8072;
+    font-weight: bold;
+}
